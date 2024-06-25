@@ -5,12 +5,14 @@
 Le diabète est une maladie chronique, touchant 3,5 millions de personnes en France. Elle est très couteuse et génère de très graves complica tions qui pourraient être évitables. 
 D’après plusieurs études réalisées, l’observance des patients est proche de 40% et le niveau de suivi biologique est également très faible.
 
-Sous la supervision de l’enseignante-chercheuse Madame Sophie Dabo, nous cherchons à modéliser le suivi biologique des patients DNID du laboratoire QuantiHealth et de déterminer des
-sous-populations de patients (en utilisant des méthodes de partitionnement) à partir de leur observance du suivi biologique.
-Pour modéliser le suivi biologique et déterminer d’avantage des sous-populations de patients, nous
+Nous cherchons à modéliser le suivi biologique des patients DNID du laboratoire QuantiHealth et de déterminer des sous-populations de patients (en utilisant des méthodes de partitionnement) à partir de leur observance du suivi biologique. Pour modéliser le suivi biologique et déterminer d’avantage des sous-populations de patients, nous
 parcourons trois parties :
+
+
 → Etude des observance pour comprendre l’evolution, le suivi médicale, des patients.
+
 → Méthode de partitionnement : Classification Ascendante Hiérarchique (CAH).
+
 → Méthode de partitionnement : K-means.
 
 
