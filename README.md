@@ -6,7 +6,9 @@ Le diabète est une maladie chronique, touchant 3,5 millions de personnes en Fra
 D’après plusieurs études réalisées, l’observance des patients est proche de 40% et le niveau de suivi biologique est également très faible.
 
 Dans le cadre de mon stage en tant que Data Analyst, j'ai modélisé le suivi biologique des patients diabétiques afin d'identifier des sous-populations de patients en fonction de leur observance médicale, en utilisant des méthodes de partitionnement basées sur le machine learning. Les techniques de partitionnement que j'ai appliquées sont les suivantes :
+
  **Classification Ascendante Hiérarchique (CAH)**
+ 
  **K-means**
 
  Avant d'appliquer ces méthodes, j'ai effectué une étude préliminaire de nettoyage des données pour garantir la qualité des informations utilisées. Ensuite, j'ai réalisé des analyses descriptives afin de mieux comprendre l’évolution médicale, le suivi des patients, ainsi que d'autres caractéristiques spécifiques.
