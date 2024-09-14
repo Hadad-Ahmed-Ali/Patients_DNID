@@ -5,15 +5,15 @@
 Le diabète est une maladie chronique, touchant 3,5 millions de personnes en France. Elle est très couteuse et génère de très graves complica tions qui pourraient être évitables. 
 D’après plusieurs études réalisées, l’observance des patients est proche de 40% et le niveau de suivi biologique est également très faible.
 
-Nous cherchons à modéliser le suivi biologique des patients DNID du laboratoire QuantiHealth et de déterminer des sous-populations de patients (en utilisant des méthodes de partitionnement) à partir de leur observance du suivi biologique. Pour modéliser le suivi biologique et déterminer d’avantage des sous-populations de patients, nous
-parcourons trois parties :
+Dans le cadre de mon stage en tant que Data Analyst, j'ai modélisé le suivi biologique des patients diabétiques afin d'identifier des sous-populations de patients en fonction de leur observance médicale, en utilisant des méthodes de partitionnement basées sur le machine learning. Les techniques de partitionnement que j'ai appliquées sont les suivantes :
+ **Classification Ascendante Hiérarchique (CAH)**
+ **K-means**
 
+ Avant d'appliquer ces méthodes, j'ai effectué une étude préliminaire de nettoyage des données pour garantir la qualité des informations utilisées. Ensuite, j'ai réalisé des analyses descriptives afin de mieux comprendre l’évolution médicale, le suivi des patients, ainsi que d'autres caractéristiques spécifiques.
 
-→ Etude des observance pour comprendre l’evolution, le suivi médicale, des patients.
+Pour gérer la grande quantité de données et réduire le nombre de variables, j'ai utilisé une analyse factorielle afin de synthétiser les variables en axes factoriels. Cela m'a permis de simplifier l'analyse tout en conservant l'essentiel des informations pertinentes.
 
-→ Méthode de partitionnement : Classification Ascendante Hiérarchique (CAH).
-
-→ Méthode de partitionnement : K-means.
+Enfin, j'ai rédigé un rapport destiné aux médecins, qui décrit et caractérise les différentes sous-populations identifiées à l'issue de l'analyse.
 
 
 
