@@ -13,10 +13,10 @@ Dans le cadre de mon stage en tant que Data Analyst chez Quanti Health, j'ai tra
 
 **Méthodologie:**
 
-• Etude préliminaire de nettoyage des données
-• Analyses descriptives afin de mieux comprendre le suivi des patients
-• Analyse factorielle afin de synthétiser les variables en axes factoriels
-• Clustering pour identifier des groupes de patients (Machine Learning)
+- Etude préliminaire de nettoyage des données
+- Analyses descriptives afin de mieux comprendre le suivi des patients
+- Analyse factorielle afin de synthétiser les variables en axes factoriels
+- Clustering pour identifier des groupes de patients (Machine Learning)
 
 **Techniques utilisées:**
 
