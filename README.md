@@ -22,7 +22,8 @@ Dans le cadre de mon stage en tant que Data Analyst chez Quanti Health, j'ai tra
 
  - Classification Ascendante Hiérarchique (CAH)
  - K-means
- - Outils : Python
+
+# Outils utilisé: Python
 
 **Résultats et livrables:**
 
