@@ -18,7 +18,7 @@ Dans le cadre de mon stage en tant que Data Analyst chez Quanti Health, j'ai tra
 - Analyse factorielle afin de synthétiser les variables en axes factoriels
 - Clustering pour identifier des groupes de patients (Machine Learning)
 
-# Techniques utilisées:
+# Techniques de Machine Learning utilisées:
 
  - Classification Ascendante Hiérarchique (CAH)
  - K-means
