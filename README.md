@@ -2,7 +2,7 @@
                                        déterminer des sous- populations de patients à partir
                                        de leur observance du suivi biologique
 
-# Contexte et problématique:
+# Contexte:
 
 Le diabète est une maladie chronique, touchant 3,5 millions de personnes en France. Elle est très couteuse et génère de très graves complications qui pourraient être évitables. 
 D’après plusieurs études réalisées, l’observance des patients est proche de 40% et le niveau de suivi biologique est également très faible.
