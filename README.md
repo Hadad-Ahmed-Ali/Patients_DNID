@@ -26,6 +26,9 @@ Dans le cadre de mon stage en tant que Data Analyst chez Quanti Health, j'ai tra
   Un processus approfondi de nettoyage des données est entrepris pour garantir une base de données propre. Cela inclut :
 - La détection des données aberrantes ou manquantes.
 - Une analyse approfondie pour comprendre l’origine de ces valeurs problématiques.
+
+      4. hhh
+  
 - Une prise de décision éclairée sur la gestion de ces valeurs (imputation ou suppression d’observations) en fonction de la distribution des variables et de leur échelle.
 
       4. Analyse factorielle:
