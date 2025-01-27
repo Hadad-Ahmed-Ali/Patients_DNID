@@ -13,7 +13,7 @@ Dans le cadre de mon stage en tant que Data Analyst chez Quanti Health, j'ai tra
 
 ## Méthodologie:
 
-1. **Étude préliminaire de nettoyage des données:**
+    1. **Étude préliminaire de nettoyage des données:**
   
   Une première exploration est réalisée pour examiner l'état des données disponibles et identifier les problèmes éventuels.
   
