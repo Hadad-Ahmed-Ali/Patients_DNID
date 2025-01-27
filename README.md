@@ -13,17 +13,32 @@ Dans le cadre de mon stage en tant que Data Analyst chez Quanti Health, j'ai tra
 
 # Méthodologie:
 
-- Etude préliminaire de nettoyage des données
-- Analyses descriptives afin de mieux comprendre le suivi des patients
-- Analyse factorielle afin de synthétiser les variables en axes factoriels
-- Clustering pour identifier des groupes de patients (Machine Learning)
+1. **Étude préliminaire de nettoyage des données:**
+  
+  Une première exploration est réalisée pour examiner l'état des données disponibles et identifier les problèmes éventuels.
+2. **Analyses descriptives:**
 
-# Techniques de Machine Learning utilisées:
+  Des analyses descriptives sont effectuées afin de mieux comprendre le suivi des patients, les principales tendances, ainsi que la répartition des variables.
+  
+3. **Nettoyage des données**
+   
+  Un processus approfondi de nettoyage des données est entrepris pour garantir une base de données propre. Cela inclut :
+- La détection des données aberrantes ou manquantes.
+- Une analyse approfondie pour comprendre l’origine de ces valeurs problématiques.
+- Une prise de décision éclairée sur la gestion de ces valeurs (imputation ou suppression d’observations) en fonction de la distribution des variables et de leur échelle.
+   
+4. **Analyse factorielle:**
 
- - Classification Ascendante Hiérarchique (CAH)
- - K-means
+  Une analyse factorielle est menée pour synthétiser les variables en axes factoriels. L’objectif est de réduire le nombre de variables tout en conservant l’essentiel de l’information qu’elles contiennent, en facilitant ainsi les analyses ultérieures.
+  
+5. **Clustering pour identifier des groupes de patients (Machine Learning):**
 
-# Outils utilisé: Python
+  Des techniques de Machine Learning robustes, telles que la **Classification Ascendante Hiérarchique (CAH)** et **K-means**, sont appliquées pour regrouper les patients en fonction de leurs similitudes.
+
+- Ces groupes permettent d’identifier les patients présentant des comportements médicaux similaires.
+- Les résultats offrent aux médecins des insights précieux pour personnaliser les stratégies médicales en fonction des spécificités de chaque groupe.
+
+# Outils utilisé: Python, MySQL
 
 # Résultats et livrables:
 
