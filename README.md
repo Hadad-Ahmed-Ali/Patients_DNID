@@ -2,20 +2,21 @@
                                        déterminer des sous- populations de patients à partir
                                        de leur observance du suivi biologique
 
-# Contexte:
+## Contexte:
 
 Le diabète est une maladie chronique, touchant 3,5 millions de personnes en France. Elle est très couteuse et génère de très graves complications qui pourraient être évitables. 
 D’après plusieurs études réalisées, l’observance des patients est proche de 40% et le niveau de suivi biologique est également très faible.
 
-# Objectif du stage:
+## Objectif du stage:
 
 Dans le cadre de mon stage en tant que Data Analyst chez Quanti Health, j'ai travaillé sur la modélisation du suivi biologique des patients diabétiques. L'objectif principal était d'identifier des sous-populations de patients en fonction de leur observance médicale, en appliquant des techniques de machine learning pour le clustering.
 
-# Méthodologie:
+## Méthodologie:
 
 1. **Étude préliminaire de nettoyage des données:**
   
   Une première exploration est réalisée pour examiner l'état des données disponibles et identifier les problèmes éventuels.
+  
 2. **Analyses descriptives:**
 
   Des analyses descriptives sont effectuées afin de mieux comprendre le suivi des patients, les principales tendances, ainsi que la répartition des variables.
@@ -38,9 +39,9 @@ Dans le cadre de mon stage en tant que Data Analyst chez Quanti Health, j'ai tra
 - Ces groupes permettent d’identifier les patients présentant des comportements médicaux similaires.
 - Les résultats offrent aux médecins des insights précieux pour personnaliser les stratégies médicales en fonction des spécificités de chaque groupe.
 
-# Outils utilisé: Python, MySQL
+## Outils utilisé: Python, MySQL
 
-# Résultats et livrables:
+## Résultats et livrables:
 
 Cette analyse a permis de mieux comprendre les tendances d'observance médicale et de caractériser des sous-populations spécifiques. J'ai également rédigé un rapport détaillé mettant en lumière les insights clés et proposant des recommandations pour améliorer le suivi des patients.
 
