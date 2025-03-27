@@ -12,6 +12,9 @@ D’après plusieurs études réalisées, l’observance des patients est proche
 Dans le cadre de mon stage en tant que Data Analyst chez Quanti Health, j'ai travaillé sur la modélisation du suivi biologique des patients diabétiques. L'objectif principal était d'identifier des sous-populations de patients en fonction de leur observance médicale, en appliquant des techniques de machine learning pour le clustering.
 
 ## Méthodologie:
+L'étude se compose de deux axes :
+
+#### I - Consolider et analyser les données des patients avant la modélisation
 
       1. Étude préliminaire de nettoyage des données:
   
@@ -32,7 +35,7 @@ Dans le cadre de mon stage en tant que Data Analyst chez Quanti Health, j'ai tra
   
 Une analyse factorielle est menée pour synthétiser les variables en axes factoriels. L’objectif est de réduire le nombre de variables tout en conservant l’essentiel de l’information qu’elles contiennent, en facilitant ainsi les analyses ultérieures.
 
-    5. Clustering pour identifier des groupes de patients (Machine Learning):
+#### II -  Clustering pour identifier des groupes de patients (Machine Learning):
 
 Des techniques de Machine Learning robustes, telles que la **Classification Ascendante Hiérarchique (CAH)** et **K-means**, sont appliquées pour regrouper les patients en fonction de leurs similitudes.
 
